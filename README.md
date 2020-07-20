@@ -1,7 +1,7 @@
 # ProxyGetter
 Python script that pulls proxies from https://free-proxy-list.net/
 
-_Note_:Creating the Proxy class will imediately run the proxy getting method so that the proxies are scraped. This functionality can easily be disabled by deleting the method run in the initialization (init) method.
+_Note_: Creating the Proxy class will imediately run the proxy getting method so that the proxies are scraped. This functionality can easily be disabled by deleting the method run in the initialization (init) method.
 
 ## Methods ##
 
