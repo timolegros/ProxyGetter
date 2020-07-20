@@ -14,6 +14,7 @@ class Proxies:
         self.proxyList = []
         self.currentProxy = None
         self.getProxiesDefault()
+        # self.getNextProxy()
 
     def getProxiesDefault(self):
         """
